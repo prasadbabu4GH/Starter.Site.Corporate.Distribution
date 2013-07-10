@@ -1,0 +1,30 @@
+{
+	"name": "lelesys/starter-site-corporate-distribution",
+	"description": "Lelesys Starter Site Distribution - Corporate",
+	"license": "GPL-3.0+",
+	"authors": [
+	{
+		"name": "Lelesys Infotech Pvt Ltd",
+		"email": "info@lelesys.com"
+	}
+	],
+	"config": {
+		"vendor-dir": "Packages/Libraries",
+		"bin-dir": "bin"
+	},
+	"require": {
+		"typo3/neos": "dev-master",
+		"lelesys/starter-site-corporate": "dev-master",
+		"typo3/sitekickstarter": "dev-master",
+		"imagine/imagine": "v0.4.1"
+	},
+	"require-dev": {
+		"typo3/buildessentials": "dev-master",
+		"mikey179/vfsstream": "1.1.*"
+	},
+	"minimum-stability": "dev",
+	"scripts": {
+		"post-update-cmd": "TYPO3\\Flow\\Composer\\InstallerScripts::postUpdateAndInstall",
+		"post-install-cmd": "TYPO3\\Flow\\Composer\\InstallerScripts::postUpdateAndInstall"
+	}
+}

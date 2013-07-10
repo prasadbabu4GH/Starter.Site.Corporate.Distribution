@@ -1,0 +1,17 @@
+/Build/
+/Data/
+/Packages/
+/Web/
+/bin/
+/Readme.txt
+/Upgrading.txt
+/flow
+/flow.bat
+/nbproject/
+/Configuration/Development/
+/Configuration/PackageStates.php
+/Configuration/Production/
+/Configuration/README
+/Configuration/Settings.yaml.example
+/Configuration/Testing/
+
