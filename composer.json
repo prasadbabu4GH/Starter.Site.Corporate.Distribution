@@ -15,8 +15,7 @@
 	"require": {
 		"typo3/neos": "dev-master",
 		"lelesys/starter-site-corporate": "dev-master",
-		"typo3/sitekickstarter": "dev-master",
-		"imagine/imagine": "v0.4.1"
+		"typo3/sitekickstarter": "dev-master"
 	},
 	"require-dev": {
 		"typo3/buildessentials": "dev-master",
