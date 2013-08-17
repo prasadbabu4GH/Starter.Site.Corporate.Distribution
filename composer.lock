@@ -728,12 +728,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lelesys/Lelesys.Captcha.git",
-                "reference": "62bbdcf10028673b410ce052fdedb7a0d883fb80"
+                "reference": "3d3510a038d1ff2e7fb36daaa7200e8dc0759d28"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lelesys/Lelesys.Captcha/zipball/62bbdcf10028673b410ce052fdedb7a0d883fb80",
-                "reference": "62bbdcf10028673b410ce052fdedb7a0d883fb80",
+                "url": "https://api.github.com/repos/lelesys/Lelesys.Captcha/zipball/3d3510a038d1ff2e7fb36daaa7200e8dc0759d28",
+                "reference": "3d3510a038d1ff2e7fb36daaa7200e8dc0759d28",
                 "shasum": ""
             },
             "require": {
@@ -757,7 +757,7 @@
                 }
             ],
             "description": "Captcha require for form",
-            "time": "2013-07-26 10:29:11"
+            "time": "2013-08-17 11:41:53"
         },
         {
             "name": "lelesys/module-theme",
