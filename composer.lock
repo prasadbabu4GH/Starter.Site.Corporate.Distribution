@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "de48b2e905d57951c66cbff593939876",
+    "hash": "36de9cb2cc67356c511a1fb55ffc89a6",
     "packages": [
         {
             "name": "composer/installers",
@@ -11,12 +11,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "34bd8e879adc82fac26eb2c7551a03e04f9b7e3a"
+                "reference": "v1.0.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/34bd8e879adc82fac26eb2c7551a03e04f9b7e3a",
-                "reference": "34bd8e879adc82fac26eb2c7551a03e04f9b7e3a",
+                "url": "https://api.github.com/repos/composer/installers/zipball/v1.0.5",
+                "reference": "v1.0.5",
                 "shasum": ""
             },
             "replace": {
@@ -46,7 +46,7 @@
                 {
                     "name": "Kyle Robinson Young",
                     "email": "kyle@dontkry.com",
-                    "homepage": "http://dontkry.com",
+                    "homepage": "https://github.com/shama",
                     "role": "Developer"
                 }
             ],
@@ -75,7 +75,7 @@
                 "wordpress",
                 "zend"
             ],
-            "time": "2013-06-29 16:45:39"
+            "time": "2013-08-07 17:25:08"
         },
         {
             "name": "doctrine/annotations",
@@ -115,7 +115,7 @@
             ],
             "authors": [
                 {
-                    "name": "Jonathan Wage",
+                    "name": "Jonathan H. Wage",
                     "email": "jonwage@gmail.com",
                     "homepage": "http://www.jwage.com/"
                 },
@@ -133,7 +133,7 @@
                     "email": "kontakt@beberlei.de"
                 },
                 {
-                    "name": "Johannes Schmitt",
+                    "name": "Johannes M. Schmitt",
                     "email": "schmittjoh@gmail.com",
                     "homepage": "http://jmsyst.com",
                     "role": "Developer of wrapped JMSSerializerBundle"
@@ -154,12 +154,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/cache.git",
-                "reference": "dc3438804c6303f1b5892f184a79aa8e3ce5d81d"
+                "reference": "2c9761ff1d13e188d5f7378066c1ce2882d7a336"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/cache/zipball/dc3438804c6303f1b5892f184a79aa8e3ce5d81d",
-                "reference": "dc3438804c6303f1b5892f184a79aa8e3ce5d81d",
+                "url": "https://api.github.com/repos/doctrine/cache/zipball/2c9761ff1d13e188d5f7378066c1ce2882d7a336",
+                "reference": "2c9761ff1d13e188d5f7378066c1ce2882d7a336",
                 "shasum": ""
             },
             "require": {
@@ -215,7 +215,7 @@
                 "cache",
                 "caching"
             ],
-            "time": "2013-07-04 15:48:06"
+            "time": "2013-08-07 16:04:25"
         },
         {
             "name": "doctrine/collections",
@@ -223,12 +223,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/collections.git",
-                "reference": "3db3ab843ff76774bee4679d4cb3a10cffb0a935"
+                "reference": "623caf42551b416460df786154d89bc50e3d1798"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/collections/zipball/3db3ab843ff76774bee4679d4cb3a10cffb0a935",
-                "reference": "3db3ab843ff76774bee4679d4cb3a10cffb0a935",
+                "url": "https://api.github.com/repos/doctrine/collections/zipball/623caf42551b416460df786154d89bc50e3d1798",
+                "reference": "623caf42551b416460df786154d89bc50e3d1798",
                 "shasum": ""
             },
             "require": {
@@ -251,7 +251,7 @@
             ],
             "authors": [
                 {
-                    "name": "Jonathan Wage",
+                    "name": "Jonathan H. Wage",
                     "email": "jonwage@gmail.com",
                     "homepage": "http://www.jwage.com/"
                 },
@@ -269,7 +269,7 @@
                     "email": "kontakt@beberlei.de"
                 },
                 {
-                    "name": "Johannes Schmitt",
+                    "name": "Johannes M. Schmitt",
                     "email": "schmittjoh@gmail.com",
                     "homepage": "http://jmsyst.com",
                     "role": "Developer of wrapped JMSSerializerBundle"
@@ -282,7 +282,7 @@
                 "collections",
                 "iterator"
             ],
-            "time": "2013-05-26 05:21:22"
+            "time": "2013-07-23 08:27:26"
         },
         {
             "name": "doctrine/common",
@@ -290,12 +290,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/common.git",
-                "reference": "6a39bb947b20d12a16820f2709509e41e28af005"
+                "reference": "9c6b8615a988117dec83bdbb0fad80afef23eab8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/common/zipball/6a39bb947b20d12a16820f2709509e41e28af005",
-                "reference": "6a39bb947b20d12a16820f2709509e41e28af005",
+                "url": "https://api.github.com/repos/doctrine/common/zipball/9c6b8615a988117dec83bdbb0fad80afef23eab8",
+                "reference": "9c6b8615a988117dec83bdbb0fad80afef23eab8",
                 "shasum": ""
             },
             "require": {
@@ -323,7 +323,7 @@
             ],
             "authors": [
                 {
-                    "name": "Jonathan Wage",
+                    "name": "Jonathan H. Wage",
                     "email": "jonwage@gmail.com",
                     "homepage": "http://www.jwage.com/"
                 },
@@ -341,7 +341,7 @@
                     "email": "kontakt@beberlei.de"
                 },
                 {
-                    "name": "Johannes Schmitt",
+                    "name": "Johannes M. Schmitt",
                     "email": "schmittjoh@gmail.com",
                     "homepage": "http://jmsyst.com",
                     "role": "Developer of wrapped JMSSerializerBundle"
@@ -356,7 +356,7 @@
                 "persistence",
                 "spl"
             ],
-            "time": "2013-07-02 11:26:20"
+            "time": "2013-07-30 05:35:10"
         },
         {
             "name": "doctrine/dbal",
@@ -393,7 +393,7 @@
             ],
             "authors": [
                 {
-                    "name": "Jonathan Wage",
+                    "name": "Jonathan H. Wage",
                     "email": "jonwage@gmail.com",
                     "homepage": "http://www.jwage.com/"
                 },
@@ -455,7 +455,7 @@
             ],
             "authors": [
                 {
-                    "name": "Jonathan Wage",
+                    "name": "Jonathan H. Wage",
                     "email": "jonwage@gmail.com",
                     "homepage": "http://www.jwage.com/"
                 },
@@ -473,7 +473,7 @@
                     "email": "kontakt@beberlei.de"
                 },
                 {
-                    "name": "Johannes Schmitt",
+                    "name": "Johannes M. Schmitt",
                     "email": "schmittjoh@gmail.com",
                     "homepage": "http://jmsyst.com",
                     "role": "Developer of wrapped JMSSerializerBundle"
@@ -532,7 +532,7 @@
                     "email": "roman@code-factory.org"
                 },
                 {
-                    "name": "Johannes Schmitt",
+                    "name": "Johannes M. Schmitt",
                     "email": "schmittjoh@gmail.com",
                     "homepage": "http://jmsyst.com",
                     "role": "Developer of wrapped JMSSerializerBundle"
@@ -606,12 +606,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/doctrine2.git",
-                "reference": "de59307b8e8d689d7ca146feb52c62653e9b2b00"
+                "reference": "465bf0f4114db55de9e7d436a00e967002ee0bc7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/doctrine2/zipball/de59307b8e8d689d7ca146feb52c62653e9b2b00",
-                "reference": "de59307b8e8d689d7ca146feb52c62653e9b2b00",
+                "url": "https://api.github.com/repos/doctrine/doctrine2/zipball/465bf0f4114db55de9e7d436a00e967002ee0bc7",
+                "reference": "465bf0f4114db55de9e7d436a00e967002ee0bc7",
                 "shasum": ""
             },
             "require": {
@@ -668,7 +668,7 @@
                 "database",
                 "orm"
             ],
-            "time": "2013-06-30 08:43:27"
+            "time": "2013-08-10 16:05:40"
         },
         {
             "name": "imagine/imagine",
@@ -728,12 +728,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lelesys/Lelesys.Captcha.git",
-                "reference": "27355200752b935d416f6c704962a5c3f0178ac9"
+                "reference": "62bbdcf10028673b410ce052fdedb7a0d883fb80"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lelesys/Lelesys.Captcha/zipball/27355200752b935d416f6c704962a5c3f0178ac9",
-                "reference": "27355200752b935d416f6c704962a5c3f0178ac9",
+                "url": "https://api.github.com/repos/lelesys/Lelesys.Captcha/zipball/62bbdcf10028673b410ce052fdedb7a0d883fb80",
+                "reference": "62bbdcf10028673b410ce052fdedb7a0d883fb80",
                 "shasum": ""
             },
             "require": {
@@ -757,7 +757,7 @@
                 }
             ],
             "description": "Captcha require for form",
-            "time": "2013-07-11 11:40:46"
+            "time": "2013-07-26 10:29:11"
         },
         {
             "name": "lelesys/module-theme",
@@ -765,12 +765,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lelesys/Lelesys.Module.Theme.git",
-                "reference": "873bd55e3cea9f3c95df6ab70424a62a45131f3e"
+                "reference": "fb54e8194c08feaed5b38bf422b6a8d17188756e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lelesys/Lelesys.Module.Theme/zipball/873bd55e3cea9f3c95df6ab70424a62a45131f3e",
-                "reference": "873bd55e3cea9f3c95df6ab70424a62a45131f3e",
+                "url": "https://api.github.com/repos/lelesys/Lelesys.Module.Theme/zipball/fb54e8194c08feaed5b38bf422b6a8d17188756e",
+                "reference": "fb54e8194c08feaed5b38bf422b6a8d17188756e",
                 "shasum": ""
             },
             "require": {
@@ -795,7 +795,7 @@
                 }
             ],
             "description": "Noes backend module for theme configuration, For templates based on Twitter Bootstrap",
-            "time": "2013-07-10 12:37:58"
+            "time": "2013-08-05 10:13:41"
         },
         {
             "name": "lelesys/plugin-contact-form",
@@ -803,12 +803,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lelesys/Lelesys.Plugin.ContactForm.git",
-                "reference": "51e8e9b4bd3c7d17470bcce9fbf6e78b6ea90e39"
+                "reference": "670732439505db13657e1daeb8f433d5a7cdef5c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.ContactForm/zipball/51e8e9b4bd3c7d17470bcce9fbf6e78b6ea90e39",
-                "reference": "51e8e9b4bd3c7d17470bcce9fbf6e78b6ea90e39",
+                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.ContactForm/zipball/670732439505db13657e1daeb8f433d5a7cdef5c",
+                "reference": "670732439505db13657e1daeb8f433d5a7cdef5c",
                 "shasum": ""
             },
             "require": {
@@ -835,7 +835,7 @@
                 }
             ],
             "description": "Contact Form plugin for TYPO3 Neos",
-            "time": "2013-07-10 12:35:01"
+            "time": "2013-08-05 10:14:34"
         },
         {
             "name": "lelesys/plugin-custom-menu",
@@ -881,12 +881,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lelesys/Lelesys.Plugin.Faq.git",
-                "reference": "035ef484a3d67799ec8ff8f95e93ca29bf1b1489"
+                "reference": "8d60ad58a6013d2bdf81bbe2ffa58e9ba8fb9050"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.Faq/zipball/035ef484a3d67799ec8ff8f95e93ca29bf1b1489",
-                "reference": "035ef484a3d67799ec8ff8f95e93ca29bf1b1489",
+                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.Faq/zipball/8d60ad58a6013d2bdf81bbe2ffa58e9ba8fb9050",
+                "reference": "8d60ad58a6013d2bdf81bbe2ffa58e9ba8fb9050",
                 "shasum": ""
             },
             "require": {
@@ -911,7 +911,7 @@
                 }
             ],
             "description": "A faq plugin for TYPO3 Neos",
-            "time": "2013-07-10 19:16:55"
+            "time": "2013-07-26 09:58:53"
         },
         {
             "name": "lelesys/plugin-google-analytics",
@@ -957,12 +957,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lelesys/Lelesys.Plugin.IndexedSearch.git",
-                "reference": "6fa914c4739903d367b5d9386006d95b62534236"
+                "reference": "6163dbfb2102b02f9228da1d9d31b31eb5d88ff0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.IndexedSearch/zipball/6fa914c4739903d367b5d9386006d95b62534236",
-                "reference": "6fa914c4739903d367b5d9386006d95b62534236",
+                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.IndexedSearch/zipball/6163dbfb2102b02f9228da1d9d31b31eb5d88ff0",
+                "reference": "6163dbfb2102b02f9228da1d9d31b31eb5d88ff0",
                 "shasum": ""
             },
             "require": {
@@ -987,7 +987,7 @@
                 }
             ],
             "description": "A index search plugin for TYPO3 Neos",
-            "time": "2013-06-25 10:14:06"
+            "time": "2013-08-12 10:30:08"
         },
         {
             "name": "lelesys/plugin-multi-content",
@@ -995,12 +995,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lelesys/Lelesys.Plugin.MultiContent.git",
-                "reference": "d89685c59d26062c429138007c224298d898a444"
+                "reference": "c178be4d7fb3f93108257c0b741d17e7c68a84c0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.MultiContent/zipball/d89685c59d26062c429138007c224298d898a444",
-                "reference": "d89685c59d26062c429138007c224298d898a444",
+                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.MultiContent/zipball/c178be4d7fb3f93108257c0b741d17e7c68a84c0",
+                "reference": "c178be4d7fb3f93108257c0b741d17e7c68a84c0",
                 "shasum": ""
             },
             "require": {
@@ -1025,7 +1025,7 @@
                 }
             ],
             "description": "MultiContent plugin for displaying content in different pleasant layouts.",
-            "time": "2013-07-10 12:56:53"
+            "time": "2013-07-26 10:20:31"
         },
         {
             "name": "lelesys/plugin-news",
@@ -1033,12 +1033,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lelesys/Lelesys.Plugin.News.git",
-                "reference": "fe4cc0e8dbe61929123100471d2ea408e6e4a2b1"
+                "reference": "ca3357a4a4f4ceada86e4a39df2a52019d8b8b0c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.News/zipball/fe4cc0e8dbe61929123100471d2ea408e6e4a2b1",
-                "reference": "fe4cc0e8dbe61929123100471d2ea408e6e4a2b1",
+                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.News/zipball/ca3357a4a4f4ceada86e4a39df2a52019d8b8b0c",
+                "reference": "ca3357a4a4f4ceada86e4a39df2a52019d8b8b0c",
                 "shasum": ""
             },
             "require": {
@@ -1062,7 +1062,7 @@
                 }
             ],
             "description": "News plugin for TYPO3 Neos",
-            "time": "2013-06-25 13:02:05"
+            "time": "2013-08-17 05:49:04"
         },
         {
             "name": "lelesys/plugin-newsletter",
@@ -1108,12 +1108,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lelesys/Lelesys.Plugin.Products.git",
-                "reference": "7ce73e35e3240a54313a223c2e6f7464a0a4eaf8"
+                "reference": "2135f64046dbc9981380ad33bdbcedec2bf52ca5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.Products/zipball/7ce73e35e3240a54313a223c2e6f7464a0a4eaf8",
-                "reference": "7ce73e35e3240a54313a223c2e6f7464a0a4eaf8",
+                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.Products/zipball/2135f64046dbc9981380ad33bdbcedec2bf52ca5",
+                "reference": "2135f64046dbc9981380ad33bdbcedec2bf52ca5",
                 "shasum": ""
             },
             "require": {
@@ -1138,7 +1138,7 @@
                 }
             ],
             "description": "A product plugin for TYPO3 Neos",
-            "time": "2013-06-25 11:41:53"
+            "time": "2013-08-16 15:24:01"
         },
         {
             "name": "lelesys/plugin-seo-helper",
@@ -1146,12 +1146,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lelesys/Lelesys.Plugin.SEOHelper.git",
-                "reference": "40c121a74808d802bc76c03cd0a427cb408f02a1"
+                "reference": "788be862db668586ea87afacb5f8889fb58573cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.SEOHelper/zipball/40c121a74808d802bc76c03cd0a427cb408f02a1",
-                "reference": "40c121a74808d802bc76c03cd0a427cb408f02a1",
+                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.SEOHelper/zipball/788be862db668586ea87afacb5f8889fb58573cb",
+                "reference": "788be862db668586ea87afacb5f8889fb58573cb",
                 "shasum": ""
             },
             "require": {
@@ -1176,7 +1176,7 @@
                 }
             ],
             "description": "A seo plugin for TYPO3 Neos",
-            "time": "2013-07-10 16:41:47"
+            "time": "2013-07-26 10:13:22"
         },
         {
             "name": "lelesys/plugin-site-map",
@@ -1184,12 +1184,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lelesys/Lelesys.Plugin.SiteMap.git",
-                "reference": "e8efb19801692cf3832415ba2b32a99c7c150313"
+                "reference": "b6f11fff6068b57bc6143ea486c0031019323c7e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.SiteMap/zipball/e8efb19801692cf3832415ba2b32a99c7c150313",
-                "reference": "e8efb19801692cf3832415ba2b32a99c7c150313",
+                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.SiteMap/zipball/b6f11fff6068b57bc6143ea486c0031019323c7e",
+                "reference": "b6f11fff6068b57bc6143ea486c0031019323c7e",
                 "shasum": ""
             },
             "require": {
@@ -1214,7 +1214,7 @@
                 }
             ],
             "description": "SiteMap helps you navigate throughout the pages on the site.",
-            "time": "2013-07-10 09:25:37"
+            "time": "2013-07-17 06:37:23"
         },
         {
             "name": "lelesys/plugin-slide-show",
@@ -1222,12 +1222,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lelesys/Lelesys.Plugin.SlideShow.git",
-                "reference": "5516097ad484ea2093a066578a7cf75b563b0f4c"
+                "reference": "9ca0aa9a0eef6a575c160e091c970dc567553240"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.SlideShow/zipball/5516097ad484ea2093a066578a7cf75b563b0f4c",
-                "reference": "5516097ad484ea2093a066578a7cf75b563b0f4c",
+                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.SlideShow/zipball/9ca0aa9a0eef6a575c160e091c970dc567553240",
+                "reference": "9ca0aa9a0eef6a575c160e091c970dc567553240",
                 "shasum": ""
             },
             "require": {
@@ -1252,7 +1252,7 @@
                 }
             ],
             "description": "Display plain images in a nice slideshow (using a Lightbox or not). Select the images directly or choose a directory to show all images inside that directory.",
-            "time": "2013-07-10 19:17:51"
+            "time": "2013-07-26 10:08:58"
         },
         {
             "name": "lelesys/plugin-social-bookmarks",
@@ -1260,12 +1260,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lelesys/Lelesys.Plugin.SocialBookmarks.git",
-                "reference": "160e698d31eca229fdaa5bb25023bffa8e3f3a3c"
+                "reference": "acd1cbb2dfc887f095e430e9c1e96f1c16781dd4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.SocialBookmarks/zipball/160e698d31eca229fdaa5bb25023bffa8e3f3a3c",
-                "reference": "160e698d31eca229fdaa5bb25023bffa8e3f3a3c",
+                "url": "https://api.github.com/repos/lelesys/Lelesys.Plugin.SocialBookmarks/zipball/acd1cbb2dfc887f095e430e9c1e96f1c16781dd4",
+                "reference": "acd1cbb2dfc887f095e430e9c1e96f1c16781dd4",
                 "shasum": ""
             },
             "require": {
@@ -1290,7 +1290,7 @@
                 }
             ],
             "description": "Social bookmarks plugin for TYPO3 Neos",
-            "time": "2013-07-10 16:41:00"
+            "time": "2013-07-18 10:57:41"
         },
         {
             "name": "lelesys/starter-site-corporate",
@@ -1298,12 +1298,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lelesys/Lelesys.StarterSite.Corporate.git",
-                "reference": "e7dbfb94e7fa423e616376b42967838ec2293d3b"
+                "reference": "c8faf81b2f4d25c82e1529d2647672ea7d3c16e3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lelesys/Lelesys.StarterSite.Corporate/zipball/e7dbfb94e7fa423e616376b42967838ec2293d3b",
-                "reference": "e7dbfb94e7fa423e616376b42967838ec2293d3b",
+                "url": "https://api.github.com/repos/lelesys/Lelesys.StarterSite.Corporate/zipball/c8faf81b2f4d25c82e1529d2647672ea7d3c16e3",
+                "reference": "c8faf81b2f4d25c82e1529d2647672ea7d3c16e3",
                 "shasum": ""
             },
             "require": {
@@ -1334,7 +1334,7 @@
                 "GPL-3.0+"
             ],
             "description": "Site package for the TYPO3 Neos Corporate site.",
-            "time": "2013-07-13 00:31:10"
+            "time": "2013-08-14 12:25:22"
         },
         {
             "name": "symfony/console",
@@ -1343,12 +1343,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Console.git",
-                "reference": "c374f12670a4e6b6b72ef2a2d58b75534d94609c"
+                "reference": "bf382b256067b3b6c6c6950f6ff3158854388584"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Console/zipball/c374f12670a4e6b6b72ef2a2d58b75534d94609c",
-                "reference": "c374f12670a4e6b6b72ef2a2d58b75534d94609c",
+                "url": "https://api.github.com/repos/symfony/Console/zipball/bf382b256067b3b6c6c6950f6ff3158854388584",
+                "reference": "bf382b256067b3b6c6c6950f6ff3158854388584",
                 "shasum": ""
             },
             "require": {
@@ -1387,7 +1387,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "http://symfony.com",
-            "time": "2013-07-11 19:37:15"
+            "time": "2013-08-09 06:03:04"
         },
         {
             "name": "symfony/dom-crawler",
@@ -1396,12 +1396,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/DomCrawler.git",
-                "reference": "v2.2.4"
+                "reference": "v2.2.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/DomCrawler/zipball/v2.2.4",
-                "reference": "v2.2.4",
+                "url": "https://api.github.com/repos/symfony/DomCrawler/zipball/v2.2.5",
+                "reference": "v2.2.5",
                 "shasum": ""
             },
             "require": {
@@ -1449,12 +1449,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Yaml.git",
-                "reference": "v2.1.11"
+                "reference": "v2.1.12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Yaml/zipball/v2.1.11",
-                "reference": "v2.1.11",
+                "url": "https://api.github.com/repos/symfony/Yaml/zipball/v2.1.12",
+                "reference": "v2.1.12",
                 "shasum": ""
             },
             "require": {
@@ -1490,7 +1490,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Aloha.git",
-                "reference": "f257f249377e0ee3aa114a690ef0c9b872ac280f"
+                "reference": "11915f2934840b7dfd783cd4fd8ae29f2accbab9"
             },
             "require": {
                 "typo3/flow": "*",
@@ -1504,7 +1504,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "A packaged version of Aloha for TYPO3 Neos.",
-            "time": "2013-05-25 19:04:19"
+            "time": "2013-08-06 14:53:27"
         },
         {
             "name": "typo3/eel",
@@ -1512,19 +1512,23 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Eel.git",
-                "reference": "d79554905bd2dd1a372defdd1d1ccdd78f1cbc3b"
+                "reference": "1fc493523b4c2f1d2c5127eddc9aa89bf3b70207"
             },
             "require": {
                 "typo3/flow": "*"
             },
-            "type": "typo3-flow-package",
+            "type": "typo3-flow-framework",
             "autoload": {
                 "psr-0": {
                     "TYPO3\\Eel": "Classes"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "time": "2013-07-06 11:43:13"
+            "license": [
+                "LGPL-3.0+"
+            ],
+            "description": "The Embedded Expression Language (Eel) is a building block for creating Domain Specific Languages",
+            "time": "2013-08-09 13:50:51"
         },
         {
             "name": "typo3/extjs",
@@ -1532,7 +1536,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.ExtJS.git",
-                "reference": "9277f33fc63dedb759c9f9a211b596875c9bec25"
+                "reference": "0a0cba9adfcfc90dbcb849dceed9c9e4f018f71d"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1545,7 +1549,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "The package contains ExtJS for use in TYPO3 Flow packages. It is a slightly trimmed version of ExtJS (missing source, build, examples, documentation) with JavaScript, images, CSS and Flash moved to distinct folders. In addition it contains the ux files found in the examples folder of the ExtJS distribution. Using Ext Direct is supported by an Ext Direct request handler and a viewhelper to build a provider configuration from controller actions.",
-            "time": "2013-03-28 09:45:05"
+            "time": "2013-08-06 16:13:56"
         },
         {
             "name": "typo3/flow",
@@ -1553,7 +1557,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "134ec3b90b09461d76242edd5cf095b765af8317"
+                "reference": "c720e847226e8d5a6ecc661d6675f8446c37c427"
             },
             "require": {
                 "composer/installers": "~1.0.2",
@@ -1566,6 +1570,7 @@
                 "php": ">=5.3.2",
                 "symfony/dom-crawler": "2.2.*",
                 "symfony/yaml": "2.1.*",
+                "typo3/eel": "*",
                 "typo3/fluid": "*",
                 "typo3/party": "*"
             },
@@ -1584,7 +1589,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2013-07-16 20:15:38"
+            "time": "2013-08-14 16:15:44"
         },
         {
             "name": "typo3/fluid",
@@ -1592,7 +1597,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Fluid.git",
-                "reference": "27e6ebe6c40fac69acedf7692b470a7438a91cca"
+                "reference": "7c7ea0a239c7ffb9ecfc4a3d1a46c50eea469281"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1608,7 +1613,7 @@
                 "LGPL-3.0+"
             ],
             "description": "Next-Generation Templating Framework for TYPO3 Flow and TYPO3 Neos, also backported to TYPO3 CMS",
-            "time": "2013-06-19 15:36:50"
+            "time": "2013-08-09 15:46:06"
         },
         {
             "name": "typo3/form",
@@ -1616,7 +1621,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Form.git",
-                "reference": "e296d50c9702668c88ddaad2ce8444ef08c14ac8"
+                "reference": "0555a00fea3dd1b10b6dd13cd6aff98e27e1c096"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1628,8 +1633,11 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-3.0+"
+            ],
             "description": "Extensible and flexible API for building web forms",
-            "time": "2013-03-28 09:45:39"
+            "time": "2013-08-09 12:22:13"
         },
         {
             "name": "typo3/imagine",
@@ -1637,7 +1645,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Imagine.git",
-                "reference": "5dd4b77760de0dd1b22aa42f713cd8135867230a"
+                "reference": "4107b503486b1ea776c7a20309322df98c948d7a"
             },
             "require": {
                 "imagine/imagine": ">=0.5",
@@ -1650,7 +1658,10 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "time": "2013-07-10 20:13:28"
+            "license": [
+                "GPL-3.0+"
+            ],
+            "time": "2013-08-07 09:33:15"
         },
         {
             "name": "typo3/kickstart",
@@ -1658,7 +1669,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Kickstart.git",
-                "reference": "4de1a56d356203540a0c8a1ef1f20b58fbee3dc8"
+                "reference": "df5e4c657a783872eb395e28db9a5acd853a8ead"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1674,7 +1685,7 @@
                 "LGPL-3.0+"
             ],
             "description": "A simple generator for controller and views.",
-            "time": "2013-05-08 09:43:00"
+            "time": "2013-08-09 18:07:39"
         },
         {
             "name": "typo3/media",
@@ -1682,7 +1693,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Media.git",
-                "reference": "ee35604834c250e291cddb05363df940e92faefa"
+                "reference": "14361b56fb6ab1365b940104c79f47f40c460a27"
             },
             "require": {
                 "typo3/flow": "*",
@@ -1699,15 +1710,21 @@
                 "GPL-3.0+"
             ],
             "description": "The Media package",
-            "time": "2013-07-07 00:12:27"
+            "time": "2013-08-09 14:53:14"
         },
         {
             "name": "typo3/neos",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "git://git.typo3.org/Packages/TYPO3.Neos.git",
-                "reference": "a4f058b5a4fd137dae9281e33acf929a793c1614"
+                "url": "https://github.com/lelesys/TYPO3.Neos.git",
+                "reference": "14b63fad73e4b1d354dd347c30ba93ccb6fc4c8a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lelesys/TYPO3.Neos/zipball/14b63fad73e4b1d354dd347c30ba93ccb6fc4c8a",
+                "reference": "14b63fad73e4b1d354dd347c30ba93ccb6fc4c8a",
+                "shasum": ""
             },
             "require": {
                 "typo3/aloha": "*",
@@ -1729,17 +1746,29 @@
                     "TYPO3\\Neos": "Classes"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0+"
+            ],
             "description": "The next generation of the popular open-source CMS.",
-            "time": "2013-07-12 11:58:28"
+            "support": {
+                "source": "https://github.com/lelesys/TYPO3.Neos/tree/master",
+                "issues": "https://github.com/lelesys/TYPO3.Neos/issues"
+            },
+            "time": "2013-08-08 10:25:26"
         },
         {
             "name": "typo3/neos-nodetypes",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "git://git.typo3.org/Packages/TYPO3.Neos.NodeTypes.git",
-                "reference": "46b6ab108a1771a287cd10c6885c6c9a0db28135"
+                "url": "https://github.com/lelesys/TYPO3.Neos.NodeTypes.git",
+                "reference": "2b96434a3e5ae62784fcd4fc0282bd5abd5e7f9a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lelesys/TYPO3.Neos.NodeTypes/zipball/2b96434a3e5ae62784fcd4fc0282bd5abd5e7f9a",
+                "reference": "2b96434a3e5ae62784fcd4fc0282bd5abd5e7f9a",
+                "shasum": ""
             },
             "require": {
                 "typo3/flow": "*",
@@ -1751,9 +1780,15 @@
                     "TYPO3\\Neos\\NodeTypes": "Classes"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0+"
+            ],
             "description": "Node type configuration for TYPO3 Neos",
-            "time": "2013-07-06 22:44:28"
+            "support": {
+                "source": "https://github.com/lelesys/TYPO3.Neos.NodeTypes/tree/master",
+                "issues": "https://github.com/lelesys/TYPO3.Neos.NodeTypes/issues"
+            },
+            "time": "2013-08-08 10:27:23"
         },
         {
             "name": "typo3/party",
@@ -1785,7 +1820,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Setup.git",
-                "reference": "27cc6c0720f87d02ea08dcfe7103e2b8695456a8"
+                "reference": "24bbef7eaa0b3a805f14079a6e5cb99d47f86c9c"
             },
             "require": {
                 "typo3/flow": "*",
@@ -1799,7 +1834,11 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "time": "2013-03-28 09:48:03"
+            "license": [
+                "LGPL-3.0+"
+            ],
+            "description": "An extensible setup tool for TYPO3 Flow based applications",
+            "time": "2013-08-09 12:34:52"
         },
         {
             "name": "typo3/sitekickstarter",
@@ -1807,7 +1846,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.SiteKickstarter.git",
-                "reference": "41b670d7993da38a838ad745f95dea562af38cd1"
+                "reference": "1a1f9c592b3e877fb2f22b9682880285d107dc62"
             },
             "require": {
                 "typo3/flow": "*",
@@ -1820,7 +1859,10 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "time": "2013-07-04 08:14:21"
+            "license": [
+                "GPL-3.0+"
+            ],
+            "time": "2013-08-06 15:53:08"
         },
         {
             "name": "typo3/swiftmailer",
@@ -1855,7 +1897,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Twitter.Bootstrap.git",
-                "reference": "b3aec076249bfe1da6ec71a22caf13ee8b23ecfe"
+                "reference": "a2ae5bdf8787718b9309895c125550f4b861d337"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1868,15 +1910,21 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Simple and flexible HTML, CSS, and Javascript for popular user interface components and interactions. Packaged for use with TYPO3 Flow",
-            "time": "2013-06-16 10:34:06"
+            "time": "2013-08-06 16:14:31"
         },
         {
             "name": "typo3/typo3cr",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "git://git.typo3.org/Packages/TYPO3.TYPO3CR.git",
-                "reference": "2192ad51d31e85ad93f47d89081e933349656659"
+                "url": "https://github.com/lelesys/TYPO3.TYPO3CR.git",
+                "reference": "61f574b137b7d058ba4ccd603b4131e1c9b413e6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lelesys/TYPO3.TYPO3CR/zipball/61f574b137b7d058ba4ccd603b4131e1c9b413e6",
+                "reference": "61f574b137b7d058ba4ccd603b4131e1c9b413e6",
+                "shasum": ""
             },
             "require": {
                 "typo3/flow": "*"
@@ -1887,8 +1935,11 @@
                     "TYPO3\\TYPO3CR": "Classes"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
-            "time": "2013-07-10 10:26:43"
+            "support": {
+                "source": "https://github.com/lelesys/TYPO3.TYPO3CR/tree/master",
+                "issues": "https://github.com/lelesys/TYPO3.TYPO3CR/issues"
+            },
+            "time": "2013-08-14 06:21:52"
         },
         {
             "name": "typo3/typoscript",
@@ -1896,7 +1947,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.TypoScript.git",
-                "reference": "33f28cbd51573ca24a1642fd0eb252f4294e7ec2"
+                "reference": "3a3ffc2905fc218cc2a9bfdabdd1948e87a592c2"
             },
             "require": {
                 "typo3/eel": "*",
@@ -1909,7 +1960,11 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "time": "2013-07-08 12:32:41"
+            "license": [
+                "GPL-3.0+"
+            ],
+            "description": "TypoScript is a hierarchical, prototype based processing language",
+            "time": "2013-08-09 14:54:46"
         }
     ],
     "packages-dev": [
