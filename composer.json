@@ -8,6 +8,20 @@
 		"email": "info@lelesys.com"
 	}
 	],
+	"repositories": [
+	{
+		"type": "vcs",
+		"url": "https://github.com/lelesys/TYPO3.Neos.NodeTypes.git"
+	},
+	{
+		"type": "vcs",
+		"url": "https://github.com/lelesys/TYPO3.Neos.git"
+	},
+	{
+		"type": "vcs",
+		"url": "https://github.com/lelesys/TYPO3.TYPO3CR.git"
+	}
+	],
 	"config": {
 		"vendor-dir": "Packages/Libraries",
 		"bin-dir": "bin"
