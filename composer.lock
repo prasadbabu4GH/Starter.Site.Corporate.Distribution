@@ -290,12 +290,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/common.git",
-                "reference": "9c6b8615a988117dec83bdbb0fad80afef23eab8"
+                "reference": "f28a39065d455b6df1c989ea6590e971a1f0256d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/common/zipball/9c6b8615a988117dec83bdbb0fad80afef23eab8",
-                "reference": "9c6b8615a988117dec83bdbb0fad80afef23eab8",
+                "url": "https://api.github.com/repos/doctrine/common/zipball/f28a39065d455b6df1c989ea6590e971a1f0256d",
+                "reference": "f28a39065d455b6df1c989ea6590e971a1f0256d",
                 "shasum": ""
             },
             "require": {
@@ -323,7 +323,7 @@
             ],
             "authors": [
                 {
-                    "name": "Jonathan H. Wage",
+                    "name": "Jonathan Wage",
                     "email": "jonwage@gmail.com",
                     "homepage": "http://www.jwage.com/"
                 },
@@ -341,7 +341,7 @@
                     "email": "kontakt@beberlei.de"
                 },
                 {
-                    "name": "Johannes M. Schmitt",
+                    "name": "Johannes Schmitt",
                     "email": "schmittjoh@gmail.com",
                     "homepage": "http://jmsyst.com",
                     "role": "Developer of wrapped JMSSerializerBundle"
@@ -356,7 +356,7 @@
                 "persistence",
                 "spl"
             ],
-            "time": "2013-07-30 05:35:10"
+            "time": "2013-08-17 18:48:00"
         },
         {
             "name": "doctrine/dbal",
@@ -1298,12 +1298,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lelesys/Lelesys.StarterSite.Corporate.git",
-                "reference": "c8faf81b2f4d25c82e1529d2647672ea7d3c16e3"
+                "reference": "507a4872ecbd046743d1d3fdde1871a83dbb8b60"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lelesys/Lelesys.StarterSite.Corporate/zipball/c8faf81b2f4d25c82e1529d2647672ea7d3c16e3",
-                "reference": "c8faf81b2f4d25c82e1529d2647672ea7d3c16e3",
+                "url": "https://api.github.com/repos/lelesys/Lelesys.StarterSite.Corporate/zipball/507a4872ecbd046743d1d3fdde1871a83dbb8b60",
+                "reference": "507a4872ecbd046743d1d3fdde1871a83dbb8b60",
                 "shasum": ""
             },
             "require": {
@@ -1334,7 +1334,7 @@
                 "GPL-3.0+"
             ],
             "description": "Site package for the TYPO3 Neos Corporate site.",
-            "time": "2013-08-14 12:25:22"
+            "time": "2013-08-18 19:10:53"
         },
         {
             "name": "symfony/console",
@@ -1343,12 +1343,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Console.git",
-                "reference": "bf382b256067b3b6c6c6950f6ff3158854388584"
+                "reference": "2b252b1f6b30c29410772eaddf1c567a9f2bc1ab"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Console/zipball/bf382b256067b3b6c6c6950f6ff3158854388584",
-                "reference": "bf382b256067b3b6c6c6950f6ff3158854388584",
+                "url": "https://api.github.com/repos/symfony/Console/zipball/2b252b1f6b30c29410772eaddf1c567a9f2bc1ab",
+                "reference": "2b252b1f6b30c29410772eaddf1c567a9f2bc1ab",
                 "shasum": ""
             },
             "require": {
@@ -1387,7 +1387,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "http://symfony.com",
-            "time": "2013-08-09 06:03:04"
+            "time": "2013-08-17 16:34:58"
         },
         {
             "name": "symfony/dom-crawler",
